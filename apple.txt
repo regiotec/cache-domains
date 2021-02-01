@@ -1,0 +1,6 @@
+swcdn.apple.com
+osxapps.itunes.apple.com
+iosapps.itunes.apple.com
+swcdn.g.aaplimg.com
+osxapps.itunes.g.aaplimg.com
+iosapps.itunes.g.aaplimg.com
