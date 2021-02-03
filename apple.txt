@@ -4,3 +4,4 @@ iosapps.itunes.apple.com
 swcdn.g.aaplimg.com
 osxapps.itunes.g.aaplimg.com
 iosapps.itunes.g.aaplimg.com
+*.aaplimg.com
